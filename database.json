@@ -1,6 +1,55 @@
 {
   "videos": [
-    
+    {
+      "titulo": "Supino reto com halter (Suspenso)",
+      "url": "cei0mYuiog8",
+      "categoria": "Peito"
+    },
+    {
+      "titulo": "Voador (M3)",
+      "url": "27ISBxYcfdc",
+      "categoria": "Peito"
+    },
+    {
+      "titulo": "Remada supinada sentada(M3)",
+      "url": "L3IZlDorYwA",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Barra fixa (puxada triângulo)",
+      "url": "XZMq-1G_ts8",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Hack horizontal",
+      "url": "n8b01y5Urbk",
+      "categoria": "Pernas"
+    },
+    {
+      "titulo": "Flexora em pé (Cross)",
+      "url": "PfXWdnYEmlM",
+      "categoria": "Pernas"
+    },
+    {
+      "titulo": "Arado pronado sentado (M3)",
+      "url": "cpiowJ7mIEE",
+      "categoria": "Tríceps"
+    },
+     {
+      "titulo": "Tríceps Scott(Cross)",
+      "url": "4CufZJ_U2DQ",
+      "categoria": "Tríceps"
+    },
+    {
+      "titulo": "Rosca bíceps polia média (M3)",
+      "url": "32TismmbrLs",
+      "categoria": "Bíceps"
+    },
+    {
+      "titulo": "Rosca bíceps (deitado )",
+      "url": "UEBkXgXhkh4",
+      "categoria": "Bíceps"
+    },
   ]
 }
 
