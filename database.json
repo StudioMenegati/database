@@ -1,19 +1,39 @@
 {
   "videos": [
     {
+      "titulo": "Antebraço giro Cross(máquina )",
+      "url": "eVTt4msN2qw",
+      "categoria": "Antebraços"
+    },
+    {
+      "titulo": "Panturrilha sentado no cross",
+      "url": "ubKD0n9OUyY",
+      "categoria": "Panturrilhas"
+    },
+    {
+      "titulo": "Antebraço Bruce Lee ( Estação 1)",
+      "url": "jsgzcG54eIo",
+      "categoria": "Antebraços"
+    },
+    {
+      "titulo": "Mergulho Cross(Barra RJ)",
+      "url": "987FEOkpHL4",
+      "categoria": "Tríceps"
+    },
+    {
       "titulo": "Supino reto com halter (Suspenso)",
       "url": "cei0mYuiog8",
       "categoria": "Peito"
     },
     {
-      "titulo": "Voador (M3)",
-      "url": "27ISBxYcfdc",
-      "categoria": "Peito"
+      "titulo": "Elevação lateral bilateral(Cross)",
+      "url": "RUeYLR5cDyI",
+      "categoria": "Ombros"
     },
     {
-      "titulo": "Remada supinada sentada(M3)",
-      "url": "L3IZlDorYwA",
-      "categoria": "Costas"
+      "titulo": "coice tríceps duplo (cross)",
+      "url": "n_j4UJlMJdY",
+      "categoria": "Tríceps"
     },
     {
       "titulo": "Barra fixa (puxada triângulo)",
@@ -21,19 +41,74 @@
       "categoria": "Costas"
     },
     {
+      "titulo": "Panturrilha Hack",
+      "url": "DCE6wtbHFfQ",
+      "categoria": "Panturrilhas"
+    },
+    {
+      "titulo": "panturrilha leg (pé para dentro )",
+      "url": "B_geR6P7n_k",
+      "categoria": "Panturrilhas"
+    },
+    {
+      "titulo": "Adutor (Cross)",
+      "url": "zbWs06ZSka8",
+      "categoria": "Adutores"
+    },
+    {
+      "titulo": "abdução de quadril cross (com pé atrás )",
+      "url": "SAePu1LWhK8",
+      "categoria": "Abdutores"
+    },
+    {
+      "titulo": "Glúteo quatro apoios (Smith)",
+      "url": "Wh6Jg14Nwjw",
+      "categoria": "Glúteos"
+    },
+    {
+      "titulo": "Tibial anterior (leg horizontal)",
+      "url": "i4llguq1eYg",
+      "categoria": "Tibiais"
+    },
+    {
+      "titulo": "Remada supinada em pé (M3)",
+      "url": "bVhjTq88Cpc",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Puxada c/ corda",
+      "url": "HWNU1GtstTU",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Desenvolvimento 80° barra RJ(Cross)",
+      "url": "mtX7ffXIzcc",
+      "categoria": "Ombros"
+    },
+    {
+      "titulo": "crucifixo invertido neutro corda vermelha (Cross)",
+      "url": "TZ0S7sdOo8g",
+      "categoria": "Costas"
+    },
+    {
       "titulo": "Hack horizontal",
       "url": "n8b01y5Urbk",
-      "categoria": "Pernas"
+      "categoria": "Quadríceps"
     },
     {
-      "titulo": "Flexora em pé (Cross)",
-      "url": "PfXWdnYEmlM",
-      "categoria": "Pernas"
+      "titulo": "Hiperextensão Lombar (Scott)",
+      "url": "KdxsLBl8Fus",
+      "categoria": "Costas"
     },
     {
-      "titulo": "Arado pronado sentado (M3)",
-      "url": "cpiowJ7mIEE",
-      "categoria": "Tríceps"
+      "titulo": "Rolo militar sentado Cross (Scott)",
+      "url": "WrtxcUOcxjs",
+      "categoria": "Antebraços"
+    },
+    {
+      "titulo": "Rosca Scott (Cross)",
+      "url": "sq78iJ-Ekec",
+      "categoria": "Bíceps"
     },
     {
       "titulo": "Tríceps Scott(Cross)",
@@ -41,14 +116,958 @@
       "categoria": "Tríceps"
     },
     {
+      "titulo": "supino vertical neutro (M3)",
+      "url": "46d1R2Gh6no",
+      "categoria": "Peito"
+    },
+    {
+      "titulo": "Desenvolvimento 70° apoiado (estação 2)",
+      "url": "TzZArEZ0oAw",
+      "categoria": "Ombros"
+    },
+    {
+      "titulo": "Desenvolvimento neutro barra romana(cross)",
+      "url": "giA2AMAbGIs",
+      "categoria": "Ombros"
+    },
+    {
+      "titulo": "Crossover polia alta (apoiado)",
+      "url": "plvdn-RfpCY",
+      "categoria": "Peito"
+    },
+    {
+      "titulo": "Panturrilha em pé (estação 2)",
+      "url": "BfDHwOMI76Q",
+      "categoria": "Panturrilhas"
+    },
+    {
+      "titulo": "Abdominal supra sentado (Cross)",
+      "url": "FlLM2ZdKeog",
+      "categoria": "Abdominais"
+    },
+    {
+      "titulo": "Flexão de punho sentado (Cross)",
+      "url": "QWFs2N9uSH4",
+      "categoria": "Antebraços"
+    },
+    {
+      "titulo": "Abdominal supra (Smith)",
+      "url": "FpxVg1gbU8g",
+      "categoria": "Abdominais"
+    },
+    {
+      "titulo": "Abdominal em giro em isometria(M3)",
+      "url": "ReS4OmnYCKg",
+      "categoria": "Abdominais"
+    },
+    {
+      "titulo": "Supino fechado (M3)",
+      "url": "prL7hJHLILc",
+      "categoria": "Peito"
+    },
+    {
+      "titulo": "Supino declinado sentado (M3)",
+      "url": "nyEeRoIs5Nw",
+      "categoria": "Peito"
+    },
+    {
+      "titulo": "Remada pronada direção estômago (M3)",
+      "url": "UcuRvw3NW6c",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Abdominal alternado (M3)",
+      "url": "bjzOkI8KLws",
+      "categoria": "Abdominais"
+    },
+    {
+      "titulo": "Abdominal supra (M3)",
+      "url": "w89_iOT9qVA",
+      "categoria": "Abdominais"
+    },
+    {
+      "titulo": "Voador (M3)",
+      "url": "27ISBxYcfdc",
+      "categoria": "Peito"
+    },
+    {
+      "titulo": "Flexora em pé (M3)",
+      "url": "w0Ow4KVZaHU",
+      "categoria": "Posterior de coxa"
+    },
+    {
+      "titulo": "Remada supinada sentada(M3)",
+      "url": "L3IZlDorYwA",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Desenvolvimento pronado em pé (M3)",
+      "url": "Clhg-7aB18g",
+      "categoria": "Ombros"
+    },
+    {
+      "titulo": "Puxada pronada (M3)",
+      "url": "TqdZggK9Q68",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Crucifixo inclinado sentado (M3)",
+      "url": "FSeybq4gW4Q",
+      "categoria": "Peito"
+    },
+    {
+      "titulo": "Remada neutra sentado (M3)",
+      "url": "Pk2Sbuwppfk",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Desenvolvimento pronado (M3)",
+      "url": "Racd0DfqSSQ",
+      "categoria": "Ombros"
+    },
+    {
+      "titulo": "Crucifixo invertido neutro (M3)",
+      "url": "43RIoji5teI",
+      "categoria": "Costas"
+    },
+    {
       "titulo": "Rosca bíceps polia média (M3)",
       "url": "32TismmbrLs",
       "categoria": "Bíceps"
     },
     {
+      "titulo": "Arado pronado sentado (M3)",
+      "url": "cpiowJ7mIEE",
+      "categoria": "Tríceps"
+    },
+    {
+      "titulo": "Remada neutra (TRX)",
+      "url": "d1HhhDr4SdY",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Remada pronada (TRX)",
+      "url": "GILOCntiyWs",
+      "categoria": "Costas"
+    },
+    
+    {
       "titulo": "Rosca bíceps (deitado )",
       "url": "UEBkXgXhkh4",
       "categoria": "Bíceps"
+    },
+    {
+      "titulo": "Remada pronada deitado(halter)",
+      "url": "pyzggvC4R20",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Remada supinada deitado(halter)",
+      "url": "1WC00OetWi8",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Desenvolvimento em pé (estação 2)",
+      "url": "uARm7Hk7_A0",
+      "categoria": "Ombros"
+    },
+    {
+      "titulo": "Rosca giro (Método Danilo)",
+      "url": "-ISr4JDeIQw",
+      "categoria": "Bíceps"
+    },
+    {
+      "titulo": "Remada curvada supinada(barra)",
+      "url": "L8uRJ0KgeOU",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Remada curvada pronada (barra)",
+      "url": "3WD-u7vrNz4",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Rosca 45° (halter)",
+      "url": "bc1pvx9BwZc",
+      "categoria": "Bíceps"
+    },
+    {
+      "titulo": "Steep UP (Cross)",
+      "url": "_ZdMQsYOBh0",
+      "categoria": "Quadríceps"
+    },
+    {
+      "titulo": "Rolo punho Cross (antebraço)",
+      "url": "_ucn7zLkzCo",
+      "categoria": "Antebraços"
+    },
+    {
+      "titulo": "Studio J.Menegati",
+      "url": "DfrKIofuxM4",
+      "categoria": "Studio"
+    },
+    {
+      "titulo": "Supino fechado neutro(halter)",
+      "url": "1Q5W_gAKxcQ",
+      "categoria": "Peito"
+    },
+    {
+      "titulo": "Abdominal supra (Cross)",
+      "url": "Kff0kA--SEU",
+      "categoria": "Abdominais"
+    },
+    {
+      "titulo": "Flexora em pé (Cross)",
+      "url": "PfXWdnYEmlM",
+      "categoria": "Posterior de coxa"
+    },
+    {
+      "titulo": "Prancha lateral",
+      "url": "eOjXkfPq-bE",
+      "categoria": "Abdominais"
+    },
+    {
+      "titulo": "Remada supinada Cross(drop set)",
+      "url": "FlWYjy2uigk",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Remada cavalinho (tradicional )",
+      "url": "MgobRvXUBXw",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Desenvolvimento pronado (halter)",
+      "url": "5eLPmbwGDBY",
+      "categoria": "Ombros"
+    },
+    {
+      "titulo": "supino declinado(halter)",
+      "url": "P85MJYdgyl8",
+      "categoria": "Peito"
+    },
+    {
+      "titulo": "Perdigueiro",
+      "url": "HwChzjwxC80",
+      "categoria": "Mobilidade"
+    },
+    {
+      "titulo": "Rosca Scott (halter)",
+      "url": "lduHtojqCGE",
+      "categoria": "Bíceps"
+    },
+    {
+      "titulo": "Rosca Scott martelo(Halter)",
+      "url": "WC2ynJXn140",
+      "categoria": "Bíceps"
+    },
+    {
+      "titulo": "Tríceps coice unilateral (Cross)",
+      "url": "KDEE2GwjA6Y",
+      "categoria": "Tríceps"
+    },
+    {
+      "titulo": "Supino declinado (Estação 1)",
+      "url": "_DH-WU9Uphs",
+      "categoria": "Peito"
+    },
+    {
+      "titulo": "Remada pronada (direção do estômago)",
+      "url": "UK7xoaICtgg",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Coice glúteo (banco)",
+      "url": "7n4DEKGCD2k",
+      "categoria": "Glúteos"
+    },
+    {
+      "titulo": "Stiff(Cross)",
+      "url": "MgDimJdQ1fY",
+      "categoria": "Posterior de coxa"
+    },
+    {
+      "titulo": "Elevação lateral unilateral (Cross)",
+      "url": "9QGlbaoLN_I",
+      "categoria": "Ombros"
+    },
+    {
+      "titulo": "Antebraço (Bruce Le)",
+      "url": "e9DcsHExu8g",
+      "categoria": "Antebraços"
+    },
+    {
+      "titulo": "Flexão (declinado )",
+      "url": "hJaoHnO4ALM",
+      "categoria": "Peito"
+    },
+    {
+      "titulo": "Stiff(halter)",
+      "url": "y1xXw_02siM",
+      "categoria": "Posterior de coxa"
+    },
+    {
+      "titulo": "Pull face",
+      "url": "w7CQDsUc1VY",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Rosca 21(Halter)",
+      "url": "5aKrhX51S2g",
+      "categoria": "Bíceps"
+    },
+    {
+      "titulo": "Remada( triângulo)",
+      "url": "bT25ur-Vrn4",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Panturrilha (escada)",
+      "url": "3BlqL_H1-9Q",
+      "categoria": "Panturrilhas"
+    },
+    {
+      "titulo": "Tibial anterior (escada)",
+      "url": "tM5auoptvYY",
+      "categoria": "Tibiais"
+    },
+    {
+      "titulo": "Encolhimento overhead(halteres)",
+      "url": "uXyCGroG05s",
+      "categoria": "Trapézio"
+    },
+    
+    {
+      "titulo": "Concha com elástico",
+      "url": "-4uqDK7I0R8",
+      "categoria": "Glúteos"
+    },
+    {
+      "titulo": "Abdominal giro em pé (Cross)",
+      "url": "A__yAbzLrFI",
+      "categoria": "Abdominais"
+    },
+    {
+      "titulo": "Ponte",
+      "url": "NSuNx-H6YXk",
+      "categoria": "Glúteos"
+    },
+    {
+      "titulo": "Elevação pélvica (chão)",
+      "url": "pY71cayJOIE",
+      "categoria": "Glúteos"
+    },
+    {
+      "titulo": "Abdominal giro russo",
+      "url": "i5XUcL0ylao",
+      "categoria": "Abdominais"
+    },
+    {
+      "titulo": "Flexão",
+      "url": "k2c5DVRkI6U",
+      "categoria": "Peito"
+    },
+    {
+      "titulo": "Supino RJ sentado(polia alta)",
+      "url": "yO1vr9c-Y7Q",
+      "categoria": "Peito"
+    },
+    {
+      "titulo": "Chute no Cross",
+      "url": "OBdzyKXlYyY",
+      "categoria": "Quadríceps"
+    },
+    {
+      "titulo": "Chute com elástico (deitado )",
+      "url": "4Gc4NLnL8KM",
+      "categoria": "Quadríceps"
+    },
+    {
+      "titulo": "afundo (halteres)",
+      "url": "xKWDG2NUna0",
+      "categoria": "Quadríceps"
+    },
+    {
+      "titulo": "Agachamento taça",
+      "url": "ghZgM87eT38",
+      "categoria": "Quadríceps"
+    },
+    {
+      "titulo": "Remada pronada (Cross)",
+      "url": "I5zpuDmDg60",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Supino reto (barra)",
+      "url": "bovIYvhWzms",
+      "categoria": "Peito"
+    },
+    {
+      "titulo": "Supino declinado (barra)",
+      "url": "VYh8crnPu9k",
+      "categoria": "Peito"
+    },
+    {
+      "titulo": "Rosca alternado",
+      "url": "HSTZbKHoHpc",
+      "categoria": "Bíceps"
+    },
+    {
+      "titulo": "Desenvolvimento neutro(halter)",
+      "url": "dxkB_whQW9E",
+      "categoria": "Ombros"
+    },
+    {
+      "titulo": "Elevação frontal (halteres )",
+      "url": "UFkz5jU9PPg",
+      "categoria": "Ombros"
+    },
+    {
+      "titulo": "Encolhimento (barra)",
+      "url": "yiidj4xf4zE",
+      "categoria": "Trapézio"
+    },
+    {
+      "titulo": "Sumô (Halter)",
+      "url": "dJUz6_OyYeI",
+      "categoria": "Quadríceps"
+    },
+    {
+      "titulo": "Voador invertido (neutro)",
+      "url": "PkrOcl7d_nY",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Sumô (cavalinho)",
+      "url": "Jts0K46dB4Y",
+      "categoria": "Quadríceps"
+    },
+    {
+      "titulo": "Elevação frontal corda (Cross)",
+      "url": "4GVT8F1JHOw",
+      "categoria": "Ombros"
+    },
+    {
+      "titulo": "abdominal infra (falso)",
+      "url": "CpF5WrnDLy0",
+      "categoria": "Abdominais"
+    },
+    {
+      "titulo": "Abdominal supra (volante)",
+      "url": "oN2-niBiElg",
+      "categoria": "Abdominais"
+    },
+    {
+      "titulo": "Abdominal supra (travesseiro)",
+      "url": "EocP2G0iRlg",
+      "categoria": "Abdominais"
+    },
+    {
+      "titulo": "Abdominal infra verdadeiro (fase 2)",
+      "url": "2KbQvQhiLQg",
+      "categoria": "Abdominais"
+    },
+    {
+      "titulo": "Abdominal alternado",
+      "url": "0F0rDg4PwL8",
+      "categoria": "Abdominais"
+    },
+    {
+      "titulo": "Abdominal infra verdadeiro",
+      "url": "r9ZxNkL_asU",
+      "categoria": "Abdominais"
+    },
+    
+    {
+      "titulo": "Antebraço escotilha marítima (volante)",
+      "url": "ZWONxyeGL4E",
+      "categoria": "Antebraços"
+    },
+    {
+      "titulo": "Remada serrote curvado (Estação 2)",
+      "url": "vOrpIBZtN1U",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Puxada supinada (Estação 2)",
+      "url": "lyvc13d8fTY",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Tríceps triângulo polia alta",
+      "url": "arIQVl9X3vo",
+      "categoria": "Tríceps"
+    },
+    {
+      "titulo": "Panturrilha sóleo (Estação 2)",
+      "url": "jRnQepCifdw",
+      "categoria": "Panturrilhas"
+    },
+    {
+      "titulo": "Levantamento Terra (barra)",
+      "url": "I5f-Ca0wLrk",
+      "categoria": "Posterior de coxa"
+    },
+    {
+      "titulo": "Puxada unilateral",
+      "url": "sY_VQmIO2bo",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Elevação pélvica (variação no piso)",
+      "url": "OMjZqNtinZs",
+      "categoria": "Glúteos"
+    },
+    {
+      "titulo": "Coice glúteo (Cross)",
+      "url": "re-uxHaT1AU",
+      "categoria": "Glúteos"
+    },
+    {
+      "titulo": "Cadeira flexora",
+      "url": "JevzBZvbexU",
+      "categoria": "Posterior de coxa"
+    },
+    {
+      "titulo": "Cadeira extensora",
+      "url": "W6aOYlhFxpw",
+      "categoria": "Quadríceps"
+    },
+    {
+      "titulo": "Steep UP (halter)",
+      "url": "ROOeo8XbBBg",
+      "categoria": "Quadríceps"
+    },
+    {
+      "titulo": "Prancha c/ peso",
+      "url": "iQICxV4o5ho",
+      "categoria": "Abdômen"
+    },
+    {
+      "titulo": "Tibial anterior cinta (Cross)",
+      "url": "1xcK3nUVKLM",
+      "categoria": "Tibiais"
+    },
+    {
+      "titulo": "Tibial posterior perna cruzada",
+      "url": "atDJVqXg-lQ",
+      "categoria": "Tibiais"
+    },
+    {
+      "titulo": "Elevação lateral em pé (halter)",
+      "url": "NmdrpWLx9gA",
+      "categoria": "Ombros"
+    },
+    {
+      "titulo": "Elevação lateral sentado (halter)",
+      "url": "gt2-asBIT24",
+      "categoria": "Ombros"
+    },
+    {
+      "titulo": "Desenvolvimento (Smith)",
+      "url": "WOJh4mElUBg",
+      "categoria": "Ombros"
+    },
+    {
+      "titulo": "Encolhimento overhead (Smith)",
+      "url": "V2zH0vyOxIs",
+      "categoria": "Trapézio"
+    },
+    {
+      "titulo": "Voador invertido (corda)",
+      "url": "hU6UJTaT8us",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Remada Y (Cross)",
+      "url": "-rB1IXEID24",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Pullover (halter)",
+      "url": "X4jx1YYCBzY",
+      "categoria": "Peito"
+    },
+    {
+      "titulo": "Barra fixa (supinada)",
+      "url": "dUP2jnk2APs",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Barra fixa (pronado)",
+      "url": "_VnwbHWCslQ",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Desenvolvimento Arnold (alternado)",
+      "url": "3ZulYm_Q9Cw",
+      "categoria": "Ombros"
+    },
+    {
+      "titulo": "Rosca 21 (barra)",
+      "url": "qONb14cjcU8",
+      "categoria": "Bíceps"
+    },
+    {
+      "titulo": "Tríceps coice supinado (halteres)",
+      "url": "VkqgS-UCJZs",
+      "categoria": "Tríceps"
+    },
+    {
+      "titulo": "Rosca concentrada (halter)",
+      "url": "wysUnPrCwzI",
+      "categoria": "Bíceps"
+    },
+    {
+      "titulo": "Puxada tríceps pronada",
+      "url": "ji2su6OTR7o",
+      "categoria": "Tríceps"
+    },
+    {
+      "titulo": "Tríceps testa com halteres",
+      "url": "70I9Kmlhxmg",
+      "categoria": "Tríceps"
+    },
+    {
+      "titulo": "Extensão de punho (Máquina de antebraço)",
+      "url": "nvfIFYcXVZI",
+      "categoria": "Antebraços"
+    },
+    {
+      "titulo": "Rolo punho (antebraço)",
+      "url": "N3mcJ6EdBRE",
+      "categoria": "Antebraços"
+    },
+    {
+      "titulo": "Panturrilha (leg 45°)",
+      "url": "Uq2pMdnrdw0",
+      "categoria": "Panturrilhas"
+    },
+    {
+      "titulo": "Avanço (espaldar)",
+      "url": "xviE6zLZPv4",
+      "categoria": "Quadríceps"
+    },
+    {
+      "titulo": "Rosca direta (máquina de bíceps e tríceps)",
+      "url": "-1g3i8r78gE",
+      "categoria": "Bíceps"
+    },
+    {
+      "titulo": "Tríceps Scott pronado curvado (máquina de bíceps e tríceps)",
+      "url": "xsc3ls73kbg",
+      "categoria": "Tríceps"
+    },
+    {
+      "titulo": "Tríceps francês sentado (Cross)",
+      "url": "OnaQ941VZGU",
+      "categoria": "Tríceps"
+    },
+    {
+      "titulo": "Mobilidade oração completa",
+      "url": "bH5kvnS6Oo0",
+      "categoria": "Mobilidade"
+    },
+    {
+      "titulo": "Mobilidade psoas adutor",
+      "url": "iUNAfUYVx2M",
+      "categoria": "Mobilidade"
+    },
+    {
+      "titulo": "Mobilidade psoas arco",
+      "url": "6EsZ0w8xSSk",
+      "categoria": "Mobilidade"
+    },
+    {
+      "titulo": "Mobilidade pé pano",
+      "url": "vme2qoJlFKY",
+      "categoria": "Mobilidade"
+    },
+    {
+      "titulo": "Mobilidade bastão (ilpsoas)",
+      "url": "2CgShwfMLIY",
+      "categoria": "Mobilidade"
+    },
+    {
+      "titulo": "Mobilidade algema : Serrátil",
+      "url": "yJQXrzzJE1I",
+      "categoria": "Mobilidade"
+    },
+    {
+      "titulo": "Mobilidade bastão (saudação)",
+      "url": "63KXDLdl1po",
+      "categoria": "Mobilidade"
+    },
+    {
+      "titulo": "Mobilidade myagi",
+      "url": "XLdU6Cu-xEI",
+      "categoria": "Mobilidade"
+    },
+    {
+      "titulo": "Mobilidade pulley parede",
+      "url": "qODnHZYiywk",
+      "categoria": "Mobilidade"
+    },
+    {
+      "titulo": "Mobilidade algema parede",
+      "url": "LraCU0DN32w",
+      "categoria": "Mobilidade"
+    },
+    {
+      "titulo": "Mobilidade rotação externa 90°",
+      "url": "uZp49LDuE2w",
+      "categoria": "Mobilidade"
+    },
+    {
+      "titulo": "Mobilidade crucifixo invertido",
+      "url": "NxCzJnPTy_o",
+      "categoria": "Mobilidade"
+    },
+    {
+      "titulo": "Agachamento (Barra hexagonal)",
+      "url": "tfaOQPd_z5c",
+      "categoria": "Quadríceps"
+    },
+    {
+      "titulo": "Remada curvada (estação 2)",
+      "url": "T36ZidVljMA",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Remada baixa supinada (estação 2)",
+      "url": "a3c1VFSA-Dc",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Remada cavalinho (neutra)",
+      "url": "uzPe7PkJuOU",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Supino inclinado (estação 2)",
+      "url": "V4cdtV4-aHA",
+      "categoria": "Peito"
+    },
+    {
+      "titulo": "Supino declinado (Estação 2)",
+      "url": "-VixoGXt8vs",
+      "categoria": "Peito"
+    },
+    {
+      "titulo": "Crucifixo inclinado (Halteres)",
+      "url": "Kr_v3yeCHNU",
+      "categoria": "Peito"
+    },
+    {
+      "titulo": "Voador",
+      "url": "AnjretW5vGk",
+      "categoria": "Peito"
+    },
+    {
+      "titulo": "Supino vertical aprimorado c/elástico",
+      "url": "fk0UrK_OfL0",
+      "categoria": "Peito"
+    },
+    {
+      "titulo": "Tríceps Scott neutro (Máquina bíceps e tríceps)",
+      "url": "hFrw8cGlfMY",
+      "categoria": "Tríceps"
+    },
+    
+    {
+      "titulo": "Supino inclinado c/ halteres (suspenso)",
+      "url": "hKIGjqr05oY",
+      "categoria": "Peito"
+    },
+    {
+      "titulo": "Rosca Scott supinado (máquina de bíceps e tríceps)",
+      "url": "i5cavOaBaME",
+      "categoria": "Bíceps"
+    },
+    {
+      "titulo": "Rosca martelo (halteres)",
+      "url": "4a7afL4KF6w",
+      "categoria": "Bíceps"
+    },
+    {
+      "titulo": "Rosca direta (Cross)",
+      "url": "TrZd3_FI6AE",
+      "categoria": "Bíceps"
+    },
+    {
+      "titulo": "Cadeira extensora (laranja)",
+      "url": "HaIpash4L1s",
+      "categoria": "Quadríceps"
+    },
+    {
+      "titulo": "Leg 45°",
+      "url": "yLPa7P0kWQg",
+      "categoria": "Quadríceps"
+    },
+    {
+      "titulo": "Búlgaro com halteres",
+      "url": "Pq7wT4CyotY",
+      "categoria": "Quadríceps"
+    },
+    {
+      "titulo": "Elevação pélvica chão (estação 2)",
+      "url": "rHaLlJd1TuU",
+      "categoria": "Glúteos"
+    },
+    {
+      "titulo": "Cadeira abdultora",
+      "url": "MCurnLZKMUo",
+      "categoria": "Abdutores"
+    },
+    {
+      "titulo": "Cadeira adutora",
+      "url": "JXCP4AU2nIM",
+      "categoria": "Adutores"
+    },
+    {
+      "titulo": "Puxada pêndulo adaptada (estação 2)",
+      "url": "7gLo_wPO5AU",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Crucifixo inclinado parcial (Cross)",
+      "url": "xyoSTXWE5yc",
+      "categoria": "Peito"
+    },
+    {
+      "titulo": "Levantamento terra sumô",
+      "url": "BIM5lgT8MXU",
+      "categoria": "Quadríceps"
+    },
+    {
+      "titulo": "Remada em pé pronada (Cross)",
+      "url": "znRl-XBRLQ4",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Remada serrote apoiado (estação 2)",
+      "url": "RnUYvbBUIzU",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Panturrilha sóleo (adaptada na mesa flexora)",
+      "url": "EE0NOzTpaEM",
+      "categoria": "Panturrilhas"
+    },
+    {
+      "titulo": "Crossover polia alta (barra RJ)",
+      "url": "naGoHnwyQlg",
+      "categoria": "Peito"
+    },
+    {
+      "titulo": "Puxada triângulo (estação 2)",
+      "url": "-1qQLLgru-I",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Pulldow (corda)",
+      "url": "0Z9RBxrUrFc",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Rosca 70° apoiado (barra RJ)",
+      "url": "xH8eFHO5acM",
+      "categoria": "Bíceps"
+    },
+    {
+      "titulo": "Tibial anterior no cross",
+      "url": "aj_VfScGwuw",
+      "categoria": "Tibiais"
+    },
+    {
+      "titulo": "Supino polia baixa no Cross (barra RJ)",
+      "url": "V_lgUsMcQm8",
+      "categoria": "Peito"
+    },
+    {
+      "titulo": "Avanço no Smith",
+      "url": "fqg60qGSh_A",
+      "categoria": "Quadríceps"
+    },
+    {
+      "titulo": "Tibial anterior (estação 2)",
+      "url": "t4xJO6BVlVo",
+      "categoria": "Tibiais"
+    },
+    {
+      "titulo": "Puxada pronada",
+      "url": "8quRMQCzGDU",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Elevação frontal cross (barra triângulo)",
+      "url": "xblcxOUqmFc",
+      "categoria": "Ombros"
+    },
+    {
+      "titulo": "Desenvolvimento pegada pronado (estação 2)",
+      "url": "JsQiUgKomsU",
+      "categoria": "Ombros"
+    },
+    {
+      "titulo": "Crucifixo invertido curvado pronado c/ halteres",
+      "url": "aH0hqtuIXrQ",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Encolhimento pronado (Smith)",
+      "url": "F1VjcZJUhMc",
+      "categoria": "Trapézio"
+    },
+    {
+      "titulo": "Voador invertido pronado (corda)",
+      "url": "Yu_gxj5eWkA",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Mergulho (Estação 2)",
+      "url": "iuJBBEau6_o",
+      "categoria": "Tríceps"
+    },
+    {
+      "titulo": "Abdominal infra (paralela)",
+      "url": "vLo8BYN-K0E",
+      "categoria": "Abdômen"
+    },
+    {
+      "titulo": "Abdutora (variação em pé)",
+      "url": "WqqSu6XgFCQ",
+      "categoria": "Abdutores"
+    },
+    {
+      "titulo": "Mesa flexora",
+      "url": "OzPG2rgbkuw",
+      "categoria": "Posterior de coxa"
+    },
+    {
+      "titulo": "Agachamento livre",
+      "url": "VI3WxwxZGmY",
+      "categoria": "Quadríceps"
+    },
+    {
+      "titulo": "Extensora deitada",
+      "url": "33_pYCmBb6Q",
+      "categoria": "Quadríceps"
+    },
+    {
+      "titulo": "Remada curvada supinada no Smith",
+      "url": "SuBky_2Y2_4",
+      "categoria": "Costas"
+    },
+    {
+      "titulo": "Stiff na estação 2",
+      "url": "Kgp3n-GDiMM",
+      "categoria": "Posterior de coxa"
+    },
+    {
+      "titulo": "Elevação pélvica no suporte",
+      "url": "iPu5ZAolVtc",
+      "categoria": "Glúteos"
     }
   ]
 }
